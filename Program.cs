@@ -12,6 +12,7 @@ namespace SZTF2_ZH2_IQGAMA
         {
             //LancoltLista<Szemely> szemely1 = new LancoltLista<Szemely>;
 
+            //asdasd
             Console.WriteLine("Lefut-e");
 
             Console.ReadLine();
