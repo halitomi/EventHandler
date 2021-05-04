@@ -14,11 +14,21 @@ namespace SZTF2_ZH2_IQGAMA
 
      class LancoltLista<T> where T : ITagolhato, IComparable
     {
+        //public int Lenght {
+        //    get
+        //    {
+        //        return Tartalom.;
+        //    }
+        //}
+           
 
         public T Tartalom { get; set; }
         public ListaElem<T> Kovetkezo { get; set; }
 
+        public LancoltLista()
+        {
 
+        }
 
 
         private ListaElem<T> fej;

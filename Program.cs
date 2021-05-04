@@ -11,6 +11,8 @@ namespace SZTF2_ZH2_IQGAMA
         static void Main(string[] args)
         {
             //LancoltLista<Szemely> szemely1 = new LancoltLista<Szemely>;
+            //A hasítótábla osztállyal kommunikálunk a főprogramból
+          //  HasitoTabla<> hasito = new SZTF2_ZH2_IQGAMA.HasitoTabla<>();
 
             //asdasd
             Console.WriteLine("Lefut-e");

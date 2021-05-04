@@ -1,0 +1,7 @@
+C:\Users\Viktor\source\repos\EventHandler\bin\Debug\SZTF2_ZH2_IQGAMA.exe.config
+C:\Users\Viktor\source\repos\EventHandler\bin\Debug\SZTF2_ZH2_IQGAMA.exe
+C:\Users\Viktor\source\repos\EventHandler\bin\Debug\SZTF2_ZH2_IQGAMA.pdb
+C:\Users\Viktor\source\repos\EventHandler\obj\Debug\SZTF2_ZH2_IQGAMA.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\EventHandler\obj\Debug\SZTF2_ZH2_IQGAMA.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\EventHandler\obj\Debug\SZTF2_ZH2_IQGAMA.exe
+C:\Users\Viktor\source\repos\EventHandler\obj\Debug\SZTF2_ZH2_IQGAMA.pdb
